@@ -1,0 +1,12 @@
+../Core/user_lib/MLX90614.c:8:14:readEmissivityReg	8	static
+../Core/user_lib/MLX90614.c:16:6:writeEmissivityReg	16	static
+../Core/user_lib/MLX90614.c:28:8:readEmissivity	16	static
+../Core/user_lib/MLX90614.c:39:6:writeEmissivity	24	static
+../Core/user_lib/MLX90614.c:50:8:readObjectTempF	8	static
+../Core/user_lib/MLX90614.c:58:8:readAmbientTempF	8	static
+../Core/user_lib/MLX90614.c:67:8:readObjectTempC	8	static
+../Core/user_lib/MLX90614.c:76:8:readAmbientTempC	8	static
+../Core/user_lib/MLX90614.c:80:7:readTemp	24	static
+../Core/user_lib/MLX90614.c:93:14:read16	40	static
+../Core/user_lib/MLX90614.c:120:6:crc8	24	static
+../Core/user_lib/MLX90614.c:138:6:write16	40	static

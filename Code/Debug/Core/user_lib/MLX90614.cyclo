@@ -1,0 +1,12 @@
+MLX90614.c:8:14:readEmissivityReg	1
+MLX90614.c:16:6:writeEmissivityReg	1
+MLX90614.c:28:8:readEmissivity	2
+MLX90614.c:39:6:writeEmissivity	1
+MLX90614.c:50:8:readObjectTempF	1
+MLX90614.c:58:8:readAmbientTempF	1
+MLX90614.c:67:8:readObjectTempC	1
+MLX90614.c:76:8:readAmbientTempC	1
+MLX90614.c:80:7:readTemp	2
+MLX90614.c:93:14:read16	1
+MLX90614.c:120:6:crc8	4
+MLX90614.c:138:6:write16	1
